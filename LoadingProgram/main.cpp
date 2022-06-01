@@ -6,8 +6,8 @@
 using namespace std;
 
 void SleepFunction()//this is a sleep function
-{
-  for(int i = 0; i <= 10999999;i++){}
+{                     
+  for(int i = 0; i <= 10000000;i++){}
 }
 
 void gameload1(char LetterArray[],/*this the sleep function counting with the for loop*/void SleepFun(),int num)
